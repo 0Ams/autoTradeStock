@@ -1,0 +1,6 @@
+pandas
+slacker
+bs4
+selenium
+pywinauto
+pypiwin32
